@@ -59,3 +59,7 @@
 * dev
 
 **В качестве результата пришлите проверяющему ссылку на ваш GitHub-проект.**
+
+### AHJ-1.1
+
+[![Build status](https://ci.appveyor.com/api/projects/status/0wuj7bw9h0slqcjg/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-1-1-9thmd/branch/main)
